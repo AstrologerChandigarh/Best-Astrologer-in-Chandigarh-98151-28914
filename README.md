@@ -4,7 +4,7 @@ Finding an astrologer who offers the right guidance and consultation services ca
 
 # Best & Famous Astrologers in Chandigarh, India
 
-Welcome to the **Best & Famous Astrologers in Chandigarh** repository — a curated directory designed to help individuals discover experienced, popular, and well-known astrologers in Chandigarh, Mohali, and the surrounding Tricity region.
+Welcome to the **Best & Famous Astrologers in Chandigarh** repository - a curated directory designed to help individuals discover experienced, popular, and well-known astrologers in Chandigarh, Mohali, and the surrounding Tricity region.
 
 This repository aims to make it easier for people to explore astrology consultation services, compare different astrologers, and find relevant business and contact information in one place.
 
